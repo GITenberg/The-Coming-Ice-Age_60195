@@ -1,0 +1,26 @@
+_repo: The-Coming-Ice-Age_60195
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taber, C. A. M. (Charles Austin Mendell)
+    alias: Taber, Charles Austin Mendell
+    birthdate: 1824
+    deathdate: 1911
+    gutenberg_agent_id: '50837'
+    url: http://www.gutenberg.org/2009/agents/50837
+description: ''
+gutenberg_issued: '2019-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60195'
+  lccn: 06019472
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Glacial epoch'
+- !lcc 'QE'
+- GITenberg
+title: The Coming Ice Age
+url: http://www.gutenberg.org/ebooks/60195
